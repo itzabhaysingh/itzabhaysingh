@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzabhaysingh
 - 👀 I’m interested in becoming a developer.
-- 🌱 I’m currently learning java and data structures and algorithm.
+- 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail:- itzabhaysingh@gmail.com
 
