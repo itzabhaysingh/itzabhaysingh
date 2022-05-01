@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itzabhaysingh
-- 👀 I’m interested in becoming a developer.
+- 👀 I’m interested in becoming a web developer.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail:- itzabhaysingh@gmail.com
