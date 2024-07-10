@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @itzabhaysingh
-- 👀 I’m interested in becoming a Fullstack Web Dev.
-- 🌱 I’m currently a React Dev.
+- 👋 Hi, I’m Abhay.
+- 👀 I’m interested in becoming a FrontEnd Web Dev.
 - 📫 How to reach me : mail:- itzabhaysingh@gmail.com
 
 <!---
